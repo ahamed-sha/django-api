@@ -1,2 +1,2 @@
 # django-api
-django built on REST architecture
+django Todo app built on REST architecture
